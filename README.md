@@ -1,4 +1,4 @@
-Songs for kids - sinatra app
+Songs for kids - Sinatra app
 ============================
 
 How to run the application?
@@ -6,19 +6,24 @@ How to run the application?
 Clone the repo:
 
     $ git clone https://github.com/pro-vagrant/songs-sinatra-app.git
+
+Enter the directory:
+
     $ cd songs-sinatra-app
 
 Boot VM:
 
     $ vagrant up
+
+Open SSH session:
+
     $ vagrant ssh
-    $ cd /vagrant
 
 Start the server:
 
+    $ cd /vagrant
     $ ruby app.rb -o 0.0.0.0 &
 
-Finally start your web browser and visit:
+Start your web browser and visit:
 
     http://127.0.0.1:45670
-
