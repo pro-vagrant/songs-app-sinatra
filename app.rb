@@ -1,14 +1,14 @@
 require 'sinatra'
 
 get '/' do
-  "Baa, baa black sheep"
+  erb :baa
 end
 
 get '/sixpence.html' do
-  "Sing a song of sixpence"
+  erb :sixpence
 end
 
 get '/hush.html' do
-  "Hush, little baby"
+  erb :hush
 end
 
