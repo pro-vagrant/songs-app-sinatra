@@ -1,5 +1,5 @@
-Songs for kids - Sinatra app
-============================
+Songs for kids - Sinatra application
+====================================
 
 How to run the application?
 
