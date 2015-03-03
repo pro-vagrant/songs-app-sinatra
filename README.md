@@ -21,7 +21,6 @@ Open SSH session:
 
 Start the server:
 
-    $ cd /vagrant
     $ ruby app.rb -o 0.0.0.0 &
 
 Start your web browser and visit:
