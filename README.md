@@ -5,11 +5,11 @@ How to run the application?
 
 Clone the repo:
 
-    $ git clone https://github.com/pro-vagrant/songs-sinatra-app.git
+    $ git clone https://github.com/pro-vagrant/songs-app-sinatra.git
 
 Enter the directory:
 
-    $ cd songs-sinatra-app
+    $ cd songs-app-sinatra
 
 Boot VM:
 
